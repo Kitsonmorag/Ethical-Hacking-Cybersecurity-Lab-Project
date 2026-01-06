@@ -1,8 +1,9 @@
-Ethical Hacking & Cybersecurity Lab Project
+# Ethical Hacking & Cybersecurity Lab Project
 
 > **Hands-on Ethical Hacking & Cybersecurity Foundations**  
 > Practical labs covering virtualization, anonymity, network security, and attack simulation  
 > *(Educational & Authorized Use Only)*
+
 ---
 
 ## 📌 Project Overview
@@ -194,3 +195,4 @@ Unauthorized hacking is illegal.
 ---
 
 ⭐ *If you found this project useful, feel free to star the repository.*
+
